@@ -703,7 +703,7 @@ table.table th {
 .date {
   display: inline-block;
   color: #666;
-  margin-right: 2px;
+  margin-right: 2em;
 }
 .title {
   display: inline-block;
